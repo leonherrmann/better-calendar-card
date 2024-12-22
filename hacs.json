@@ -1,5 +1,6 @@
 {
     "name": "Better Calendar Card",
     "render_readme": true,
-    "filename": "better-calendar-card.js"
+    "filename": "better-calendar-card.js",
+    "homeassistant": "2024.10.0"
 }
